@@ -84,7 +84,7 @@ h1, h2, h3{
 }
 
 .btn-primary{
-    background-color:white ;
+    background-color: white;
     border-radius: 90px;
 }     
 
@@ -107,7 +107,7 @@ h1, h2, h3{
 .header{
     position: relative;
     height: 95vh;
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(''ohm.jpg'');
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('ohm.jpg');
     background-position: center;
     /* background-size: cover; */
     /* background-repeat: no-repeat; */
