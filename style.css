@@ -109,7 +109,7 @@ h1, h2, h3{
     height: 95vh;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('ohm.jpg');
     background-position: center;
-    /* background-size: cover; */
+    background-size: cover;
     /* background-repeat: no-repeat; */
 }
 
