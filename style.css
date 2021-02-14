@@ -107,7 +107,7 @@ h1, h2, h3{
 .header{
     position: relative;
     height: 95vh;
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../img/ohmm....jpg');
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(''ohm.jpg'');
     background-position: center;
     /* background-size: cover; */
     /* background-repeat: no-repeat; */
@@ -349,7 +349,7 @@ h1, h2, h3{
 .about-heading::after{
     content: '';
     display: block;
-    border: 3px solid #e63946;
+    border: 2px solid #e63946;
     width: 210px;
 }
 
@@ -509,7 +509,7 @@ h1, h2, h3{
 .form h1::after{
     content: '';
     display: block;
-    border: 3px solid #ee4758;
+    border: 2px solid #ee4758;
     width: 100%;
 }
 
